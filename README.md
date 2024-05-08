@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">I know C#, And have some time spent in UI make such as winforms, WPF.</h3>
+<h3 align="center">i hope you die</h3>
 
 
 
